@@ -1,1 +1,1 @@
-# Python_Classnotes
+Jupyter notebook from python classes
